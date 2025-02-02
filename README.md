@@ -68,12 +68,12 @@ The script performs the following steps:
 The output will display the TOPSIS scores and ranks for each model in a tabular format:
 
 ```
-           Model  Coherence  Fluency  Relevance  Perplexity  TOPSIS Score  Rank
-2    GPT-2 Large          9        9          9          15      0.935746     1
-1  GPT-2 Medium          9        8          8          18      0.705109     2
-4            T5          7        9          8          16      0.587905     3
-3       GPT-NEO          8        8          7          17      0.414891     4
-0          GPT-2          8        9          7          20      0.274491     5
+        Model  Coherence  Fluency  Relevance  Perplexity  TOPSIS Score  Rank
+2   GPT-2 Large          9        9          9          15      1.000000     1
+4            T5          7        9          8          16      0.547597     2
+1  GPT-2 Medium          9        8          8          18      0.483426     3
+0         GPT-2          8        9          7          20      0.427051     4
+3       GPT-NEO          8        8          7          17      0.334709     5
 ```
 
 ## Visualization
