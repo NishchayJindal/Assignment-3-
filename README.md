@@ -83,10 +83,10 @@ The script generates the following visualizations:
 
 ### Example Plots
 - **TOPSIS Scores:**
-![TOPSIS Scores](./images/topsis_scores.png)
+![TOPSIS Scores](./Topsis-Score.png)
 
 - **Model Rankings:**
-![Model Rankings](./images/model_rankings.png)
+![Model Rankings](./Model_ranking.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
